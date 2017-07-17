@@ -14,6 +14,7 @@ If you’re a seasoned con speaker, this is the con for you!
 We’re interested in what you have to say, if you’ve seen something amazing, or working on something small, it doesn’t matter. We want to work together as a community to discover the “next big thing”!
 Here are some topics that might give you some ideas:
 
+
 ------------ | -------------
 Information Security | Forensics
 Hacking | Exfiltration
@@ -33,9 +34,10 @@ Research | Tradecraft
 Internet of Things | Ransomware
 Security Trends |
 
-We are NOT KEEN to hear:
+We are **NOT KEEN** to hear:
 
-Advertisements for Products
+------------ | -------------
+Advertisements for Products |
 
 Talks must be a minimum of 10 mins and a maximum of 40 minutes.
 
