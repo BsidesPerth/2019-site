@@ -2,7 +2,7 @@
 layout: page
 title: Call for Presentations
 permalink: /cfp/
-banner_image: bsidesperth-black.png
+banner_image: cfp.png
 banner_image_alt: CFP
 ---
 
