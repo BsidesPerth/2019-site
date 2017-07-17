@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Call for Presentations
-permalink: /ctf/
+permalink: /cfp/
 banner_image: bsidesperth-black.png
 banner_image_alt: CFP
 ---
