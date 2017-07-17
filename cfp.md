@@ -45,6 +45,8 @@ Talks must be a minimum of 10 mins and a maximum of 40 minutes.
  
 In the interest of working together, BSides focuses on valuable feedback from the audience to engage with our speakers and create discussion around topics. We are hopeful that our speakers remain open to continuing the discussion after their speaking slot.
 If you’d like to be an integral part of BSides Perth 2017 by submitting a talk, [please click this link](https://goo.gl/forms/suN2U8KxWW7in5Q03) and fill in the details of your submission.
+
+Submissions close on 14th October.
  
  
 Don't forget to [follow us on Twitter](https://twitter.com/bsidesper)
