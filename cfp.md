@@ -20,7 +20,7 @@ Information Security | Forensics
 Hacking | Exfiltration
 Exploit development| SCADA/ICS
 Reverse engineering | Incident Response
-Gender Issues | Biometrics
+Industry Issues | Biometrics
 Privilege escalation | Physical Security
 Web Application hacking | CTF Experience
 Thought Leadership | Bug Bounties
