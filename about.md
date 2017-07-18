@@ -13,7 +13,7 @@ To stay updated, [follow us on Twitter](https://twitter.com/bsidesper)
 ### Contact Us
 
 Say `Hello` at info@bsidesperth.com.au or find
-us on
+us on [Twitter](https://twitter.com/bsidesper) | [Facebook](https://www.facebook.com/bsidesper/)
 
 ---
 
