@@ -6,7 +6,8 @@ categories:
 banner_image:
 comments: false
 ---
-Get involved and submit your talk!
+
+[Get involved and submit your talk!](http://bsidesperth.com.au/cfp/)
 Watch this space and [Follow us on Twitter](https://twitter.com/BSidesPer) to stay up to date.
 
 To get in touch directly, email: info@bsidesperth.com.au
