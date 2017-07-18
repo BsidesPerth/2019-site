@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "BSides Perth CFP Launched"
-date:   2017-07-21 0:00:55
+date:   2017-07-18 0:00:55
 categories:
 banner_image:
 comments: false
