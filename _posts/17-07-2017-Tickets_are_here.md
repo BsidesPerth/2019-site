@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tickets!"
-date:   2017-07-17 0:00:55
+date:   2017-07-25 0:00:55
 categories:
 banner_image:
 comments: false
@@ -12,4 +12,4 @@ The event is being held at the UWA Business School on the 2nd and 3rd of Decembe
 
 Don't forget to [follow us on Twitter](https://twitter.com/BSidesPer) because that's where everything goes first.
 
-If you want to talk to us direct, email: info@bsidesperth.com.au
+If you want to talk to us directly, email: info@bsidesperth.com.au
