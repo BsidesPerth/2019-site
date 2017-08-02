@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "PrivEsc Workshop!"
-date:   2017-08-03 0:00:55
+title:  "BSides PrivEsc Workshop"
+date:   2017-08-02 0:00:55
 categories:
-banner_image:privesc.jpg 
+banner_image:privesc.jpg
 comments: false
 ---
 
