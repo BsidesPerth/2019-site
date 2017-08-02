@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PrivEsc Workshop!"
-date:   2017-07-28 0:00:55
+date:   2017-08-03 0:00:55
 categories:
 banner_image:privesc.jpg 
 comments: false
