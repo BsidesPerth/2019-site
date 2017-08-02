@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "BSides PrivEsc Workshop"
-date:   2017-08-02 0:00:55
+title:  "BSides Perth CFP Launched"
+date:   2017-08-03 0:00:55
 categories:
 banner_image:privesc.jpg
 comments: false
