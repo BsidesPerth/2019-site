@@ -7,6 +7,7 @@ banner_image:privesc.jpg
 comments: false
 ---
 
+
 Sagi Shahar is running a Priviledge Escalation workshop on the Thursday/Friday before BSides Perth.
 This free-of-charge workshop will cover all (currently) known attack vectors of local user privilege escalation on both Linux and Windows operating systems.
 
