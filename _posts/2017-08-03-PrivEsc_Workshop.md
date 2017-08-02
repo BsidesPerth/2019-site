@@ -21,16 +21,16 @@ The workshop was designed mainly for novice to competent penetration testers. Ho
 
 Workshop requirements:
 
-* Administrative access to a laptop.
-* Laptop with the ability to connect to a wireless network.
-* At least 8GB of RAM
-* At least 16GB of disk space free.
-* A player to run VirtualBox/VMWare images.
+- Administrative access to a laptop.
+- Laptop with the ability to connect to a wireless network.
+- At least 8GB of RAM
+- At least 16GB of disk space free.
+- A player to run VirtualBox/VMWare images.
 
 What students will be provided with:
 
-* The training material in electronic format.
-* Virtual machines, packed with all the tools required to perform the covered attacks.
+- The training material in electronic format.
+- Virtual machines, packed with all the tools required to perform the covered attacks.
 
 Important Information:
 This free-of-charge workshop includes a ticket to BSides Perth 2017. Note that the $50 charge is for the BSides Ticket, not the workshop, however the $50 is required to secure the booking of the workshop and your ticket.
