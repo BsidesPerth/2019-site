@@ -10,16 +10,16 @@ comments: false
 Sagi Shahar is running a Priviledge Escalation workshop on the Thursday/Friday before BSides Perth.
 This free-of-charge workshop will cover all (currently) known attack vectors of local user privilege escalation on both Linux and Windows operating systems.
 
-###Bio:
+Bio:
 
 Sagi has worked in penetration testing for 6 years. During his career Sagi has achieved various highly-regarded technical certifications (OSCP, OSCE, CREST CCT (App), GXPN).
 Sagi's passion is mainly focused around security training and education in which he presented, developed, and contributed several hacking challenges (CTFs) to security conferences and the global information security community.
 
-###Who should take this course:
+Who should take this course:
 
 The workshop was designed mainly for novice to competent penetration testers. However, technical people who either wish to take their first steps in information security or would like to increase their success rate in gaining root shells are also welcome. Programming background is advised.
 
-###Workshop requirements:
+Workshop requirements:
 
 * Administrative access to a laptop.
 * Laptop with the ability to connect to a wireless network.
@@ -27,12 +27,12 @@ The workshop was designed mainly for novice to competent penetration testers. Ho
 * At least 16GB of disk space free.
 * A player to run VirtualBox/VMWare images.
 
-###What students will be provided with:
+What students will be provided with:
 
 * The training material in electronic format.
 * Virtual machines, packed with all the tools required to perform the covered attacks.
 
-#Important Information:
+Important Information:
 This free-of-charge workshop includes a ticket to BSides Perth 2017. Note that the $50 charge is for the BSides Ticket, not the workshop, however the $50 is required to secure the booking of the workshop and your ticket.
 There are only 20 spots available.
 [Get your Tickets for Privilege Escalation Workshop here](https://www.eventbrite.com.au/e/privilege-escalation-workshop-bsides-perth-2017-tickets-36475752959) 
