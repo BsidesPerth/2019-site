@@ -6,7 +6,7 @@ banner_image: DropShadow_White-more banner.png
 banner_image_alt: BSides Perth 2017 Tickets
 ---
 
-[Get your BSides tickets here!](https://www.eventbrite.com.au/e/bsides-perth-2017-tickets-35997989957)
+[Get your BSides Perth 2017 tickets here!](https://www.eventbrite.com.au/e/bsides-perth-2017-tickets-35997989957)
 
 ### Contact Us
 
