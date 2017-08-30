@@ -13,7 +13,7 @@ We are still looking for speakers so [click here to join this list of awesome pe
 ## Fergal Conner & Gordon Erasmos
 ![Thought Leaders](assets/images/FC-GE.jpg)
 
-Fergal & Gordon are recognised thought leaders and pivotal members of the information security community. Since their debut talk at WAHCKon[0] they have engaged with the community to inform, guide, and foster development of capability within the spheres cyber security. They claim joint credit for all advancement within the field since its inception.
+Fergal & Gordon are recognised thought leaders and pivotal members of the information security community. Since their debut talk at [WAHCKon \[0\]](http://wahckon.org.au/) they have engaged with the community to inform, guide, and foster development of capability within the spheres cyber security. They claim joint credit for all advancement within the field since its inception.
 
 ### Synergising The Internet of Everything And Fog Computing To Actualise The Cyber Perl Harbor: A Cross-silo Byod Approach to Dynamically Mitigating Next-Generation Watering Holes
 The synergistically entanglement of cloud, the internet of everything and big data (CIOEBD) has proven to be a silver bullet solution to the problem of escalating infrastructure needs and right-sizing. Although the lining of this cloud isn't always silver and additional revolutionary approaches are required to actualise the cyber pearl harbour. Specifically cross-silo approaches are necessitated between these disruptive technologies to reap real world benefits in the area of next-generation watering hole mitigation.
