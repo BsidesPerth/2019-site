@@ -9,6 +9,7 @@ Get to know our speakers in no particular order!
 
 We are still looking for speakers so [click here to join this list of awesome people.](https://goo.gl/forms/mVUQJjpIFIGw5O7h1)
 
+---
 ## Fergal Conner & Gordon Erasmos
 ![Thought Leaders](assets/images/FC-GE.jpg)
 
@@ -25,7 +26,7 @@ In this presentation Mr. Conner and Mr. Erasmos will discuss a staged implementa
 
 
 
-
+--- 
 ## Matt Jones
 ![Matt Jones](assets/images/MJones.jpg) 
 
@@ -41,7 +42,7 @@ A portion of the talk will look at the core concepts to generalise the key offen
 
 
 
-
+---
 ## Mitch Kelly aka Evilmonkey
 ![Mitch Kelly](assets/images/MKelly.jpg)
 
@@ -52,7 +53,7 @@ Evilmonkey is going to deliver an introduction to SDR covering transmitting and 
 
 
 
-
+---
 ## Adam Foster aka Evildaemond
 ![Adam Foster](assets/images/AFoster.jpg)
 
@@ -61,6 +62,10 @@ Adam Foster (evildaemond) is a Cyber Security undergrad at Edith Cowan Universit
 
 ### Bypass Techniques, because I am lazy
 About 2 years ago, Adam made the discovery of lockpicking, about 2 days after that he purchased his first bypass tool, because why use the slower, less effective method when you can use the quick and efficient method? (Hint: Adam will explain why). In this talk, Adam will cover some of the basics of physical bypass techniques, how you can use this for fun and profit (and when your mates lose the door handle to the flywire door out the back), and some cool tricks and tools he has picked up along the way.
+
+
+
+---
 
 ### Contact Us
 
