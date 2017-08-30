@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Speakers
+title: Speaker Profiles
 permalink: /speakers/
 banner_image: 
 banner_image_alt:
 ---
-# Speaker Profiles
 Get to know our speakers in no particular order!
 
 ## Fergal Conner & Gordon Erasmos
