@@ -20,7 +20,10 @@ In this presentation Mr. Conner and Mr. Erasmos will discuss a staged implementa
 - Sustainable information waste management technologies
 
 
+
+
 ## Matt Jones
+![Matt Jones](assets/images/MJones.jpg) 
 Partner at @elttam.
 
 ### A historical analysis of the security maturity of OpenSSH
