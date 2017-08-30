@@ -9,7 +9,7 @@ Get to know our speakers in no particular order!
 
 We are still looking for speakers so [click here to join this list of awesome people.](https://goo.gl/forms/mVUQJjpIFIGw5O7h1)
 
----
+***
 ## Fergal Conner & Gordon Erasmos
 ![Thought Leaders](assets/images/FC-GE.jpg)
 
@@ -42,7 +42,7 @@ A portion of the talk will look at the core concepts to generalise the key offen
 
 
 
-___
+***
 ## Mitch Kelly aka Evilmonkey
 ![Mitch Kelly](assets/images/MKelly.jpg)
 
@@ -53,7 +53,7 @@ Mitch is an InfoSec Engineer with vast experience in Software Defined radio and 
 
 
 
----
+***
 ## Adam Foster aka Evildaemond
 ![Adam Foster](assets/images/AFoster.jpg)
 
