@@ -26,7 +26,7 @@ In this presentation Mr. Conner and Mr. Erasmos will discuss a staged implementa
 
 
 
---- 
+*** 
 ## Matt Jones
 ![Matt Jones](assets/images/MJones.jpg) 
 
@@ -42,7 +42,7 @@ A portion of the talk will look at the core concepts to generalise the key offen
 
 
 
----
+___
 ## Mitch Kelly aka Evilmonkey
 ![Mitch Kelly](assets/images/MKelly.jpg)
 
