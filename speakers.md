@@ -47,7 +47,7 @@ Adam Foster (evildaemond) is a Cyber Security undergrad at Edith Cowan Universit
 
 
 ### Presentation
-[Bypass Techniques, because I am lazy](../talks#bypass-techniques-because-i-am-lazy)
+[Bypass Techniques, because I am lazy](https://bsidesperth.com.au/talks#bypass-techniques-because-i-am-lazy)
 
 
 ***
