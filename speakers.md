@@ -82,7 +82,7 @@ Axelodtl is a mature age cyber security student at ECU with strong experience in
 
 
 ### Presentation
-[Becoming Securicon Valley: A Proposal for a State-wide Development Framework]
+[Becoming Securicon Valley: A Proposal for a State-wide Development Framework](../talks#becoming-securicon-valley-a-proposal-for-a-state-wide-development-framework)
 
 ---
 
