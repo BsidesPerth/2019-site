@@ -10,8 +10,6 @@ Get your head around the talk topics!
 We are still looking for speakers so [click here to join this list of awesome people.](https://goo.gl/forms/mVUQJjpIFIGw5O7h1)
 
 ***
-
-
 ## Synergising The Internet of Everything And Fog Computing To Actualise The Cyber Perl Harbor: A Cross-silo Byod Approach to Dynamically Mitigating Next-Generation Watering Holes
 ### [By Fergal Conner & Gordon Erasmos](../speakers#fergal-conner--gordon-erasmos)
 The synergistically entanglement of cloud, the internet of everything and big data (CIOEBD) has proven to be a silver bullet solution to the problem of escalating infrastructure needs and right-sizing. Although the lining of this cloud isn't always silver and additional revolutionary approaches are required to actualise the cyber pearl harbour. Specifically cross-silo approaches are necessitated between these disruptive technologies to reap real world benefits in the area of next-generation watering hole mitigation.
@@ -36,22 +34,32 @@ A portion of the talk will look at the core concepts to generalise the key offen
 
 
 ***
-
-
 ## 433Mhz And the World An Introduction to Jamming
-[### By Mitch Kelly aka Evilmonkey](bsidesperth.com.au/speakers#Mitch-Kelly-aka-Evilmonkey)
+### [By Mitch Kelly aka Evilmonkey](../speakers#Mitch-Kelly-aka-Evilmonkey)
 Evilmonkey is going to deliver an introduction to SDR covering transmitting and receiving signals which will take us into a demonstration on how to jam off-the-shelf home alarm systems.
 
 
 
 ***
-
-
 ## Bypass Techniques, because I am lazy
-[### By Adam Foster aka Evildaemond](bsidesperth.com.au/speakers#Adam-Foster-aka-Evildaemond)
+### [By Adam Foster aka Evildaemond](../speakers#Adam-Foster-aka-Evildaemond)
 About 2 years ago, Adam made the discovery of lockpicking, about 2 days after that he purchased his first bypass tool, because why use the slower, less effective method when you can use the quick and efficient method? (Hint: Adam will explain why). In this talk, Adam will cover some of the basics of physical bypass techniques, how you can use this for fun and profit (and when your mates lose the door handle to the flywire door out the back), and some cool tricks and tools he has picked up along the way.
 
 
+***
+## The snake that took down a child exploitation ring
+### [By Peter Yorke aka Sneaky](../speakers#peter-yorke-aka-sneaky)
+In 2014, Police were alerted to an Undernet IRC channel sharing large amounts of child exploitation material (CEM). Sneaky will discuss how he automated the Police investigation using Python, MySql and a known CEM hashset to takedown multiple offenders world wide and interesting finds along the way.
+
+***
+## Full Mission Profiles – Intelligence-lead, scenario bound penetration testing
+### [By Alex Heidenreich](../speakers#alex-heidenreich)
+By looking at the cyber problem through the analogue of a modern insurgency, including the application of military targeting techniques, new insights and old truths for security (penetration) testing can be discovered and reinforced. Targeted offensive testing regimes drive efficiency, which is critical in the commercial world. This presentation will discuss methodologies to achieve this.
+
+***
+## Becoming Securicon Valley: A Proposal for a State-wide Development Framework
+### [By Duncan Blandford (aka Axelodtl)](../speakers#duncan-blandford-aka-axelodtl)
+The news is full of stories of the burgeoning skills shortage in cyber security, but collectively we have the power to change that; and to become a major part of the next wave of innovation and global ICT security leadership.  Drawing on models from elite sports and industry, this talk outlines a strategy for a state-wide program to train, equip, and network the professionals and technologists of the future; and how each of us can be both a participant in, and a beneficiary of, an abundance of local and exportable talent.
 
 ---
 
