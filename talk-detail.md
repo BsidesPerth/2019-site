@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Speaker Profiles
+title: Talk Synopses 
 permalink: /talks/
 banner_image: 
 banner_image_alt:
 ---
-Get to know our speakers in no particular order!
+Get your head around the talk topics!
 
 We are still looking for speakers so [click here to join this list of awesome people.](https://goo.gl/forms/mVUQJjpIFIGw5O7h1)
 
 ***
 
-(#syn-int)
+
 ## Synergising The Internet of Everything And Fog Computing To Actualise The Cyber Perl Harbor: A Cross-silo Byod Approach to Dynamically Mitigating Next-Generation Watering Holes
 ### By Fergal Conner & Gordon Erasmos
 The synergistically entanglement of cloud, the internet of everything and big data (CIOEBD) has proven to be a silver bullet solution to the problem of escalating infrastructure needs and right-sizing. Although the lining of this cloud isn't always silver and additional revolutionary approaches are required to actualise the cyber pearl harbour. Specifically cross-silo approaches are necessitated between these disruptive technologies to reap real world benefits in the area of next-generation watering hole mitigation.
