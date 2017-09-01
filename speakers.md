@@ -16,7 +16,7 @@ We are still looking for speakers so [click here to join this list of awesome pe
 Fergal & Gordon are recognised thought leaders and pivotal members of the information security community. Since their debut talk at [WAHCKon \[0\]](http://wahckon.org.au/) they have engaged with the community to inform, guide, and foster development of capability within the spheres cyber security. They claim joint credit for all advancement within the field since its inception.
 
 ### Presentation
-[Synergising The Internet of Everything And Fog Computing To Actualise The Cyber Perl Harbor: A Cross-silo Byod Approach to Dynamically Mitigating Next-Generation Watering Holes](../talks#synergising-the-internet-of-everything-and-fog-computing-to-actualise-the-cyber-perl-harbor-a-cross-silo-byod-approach-to-dynamically-mitigating-next-generation-watering-holes)
+[Synergising The Internet of Everything And Fog Computing To Actualise The Cyber Perl Harbor: A Cross-silo Byod Approach to Dynamically Mitigating Next-Generation Watering Holes](https://bsidesperth.com.au/talks#synergising-the-internet-of-everything-and-fog-computing-to-actualise-the-cyber-perl-harbor-a-cross-silo-byod-approach-to-dynamically-mitigating-next-generation-watering-holes)
 
 *** 
 ## Matt Jones
@@ -26,7 +26,7 @@ A partner at [@elttam](https://www.elttam.com.au/), Matt has over a decade of in
 He enjoys problem solving, data-based analysis, and trying to come up with ways to incorporate whisky into cooking.
 
 ### Presentation
-[A historical analysis of the security maturity of OpenSSH](../talks#a-historical-analysis-of-the-security-maturity-of-openssh)
+[A historical analysis of the security maturity of OpenSSH](https://bsidesperth.com.au/talks#a-historical-analysis-of-the-security-maturity-of-openssh)
 
 ***
 ## Mitch Kelly aka Evilmonkey
@@ -35,7 +35,7 @@ He enjoys problem solving, data-based analysis, and trying to come up with ways 
 Mitch is an InfoSec Engineer with vast experience in Software Defined radio and jamming signals. He's from Perth and has a knack for all things shiny and blinky.
 
 ### Presentation
-[433Mhz And the World An Introduction to Jamming](../talks#433mhz-and-the-world-an-introduction-to-jamming)
+[433Mhz And the World An Introduction to Jamming](https://bsidesperth.com.au/talks#433mhz-and-the-world-an-introduction-to-jamming)
 
 
 
@@ -47,7 +47,7 @@ Adam Foster (evildaemond) is a Cyber Security undergrad at Edith Cowan Universit
 
 
 ### Presentation
-[Bypass Techniques, because I am lazy](../talks#433mhz-and-the-world-an-introduction-to-jamming)
+[Bypass Techniques, because I am lazy](https://bsidesperth.com.au/talks#433mhz-and-the-world-an-introduction-to-jamming)
 
 
 ***
@@ -58,7 +58,7 @@ Sneaky (@pete12601) is an Information Security Manager @ Kinetic IT. Prior to th
 
 
 ### Presentation
-[The snake that took down a child exploitation ring](../talks#the-snake-that-took-down-a-child-exploitation-ring)
+[The snake that took down a child exploitation ring](https://bsidesperth.com.au/talks#the-snake-that-took-down-a-child-exploitation-ring)
 
 
 ***
@@ -70,7 +70,7 @@ Alex developed and employed offensive and defensive cyber security capabilities 
 
 
 ### Presentation
-[Full Mission Profiles – Intelligence-lead, scenario bound penetration testing](../talks#full-mission-profiles--intelligence-lead-scenario-bound-penetration-testing)
+[Full Mission Profiles – Intelligence-lead, scenario bound penetration testing](https://bsidesperth.com.au/talks#full-mission-profiles--intelligence-lead-scenario-bound-penetration-testing)
 
 
 
@@ -82,7 +82,7 @@ Axelodtl is a mature age cyber security student at ECU with strong experience in
 
 
 ### Presentation
-[Becoming Securicon Valley: A Proposal for a State-wide Development Framework](../talks#becoming-securicon-valley-a-proposal-for-a-state-wide-development-framework)
+[Becoming Securicon Valley: A Proposal for a State-wide Development Framework](https://bsidesperth.com.au/talks#becoming-securicon-valley-a-proposal-for-a-state-wide-development-framework)
 
 ---
 
