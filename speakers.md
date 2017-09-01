@@ -32,7 +32,7 @@ A historical analysis of the security maturity of OpenSSH
 ## Mitch Kelly aka Evilmonkey
 ![Mitch Kelly](assets/images/MKelly.jpg)
 
-Mitch is an InfoSec Engineer with vast experience in Software Defined radio and jamming signals. He's from Perth and has a knack for all things shiny and blinky.`
+Mitch is an InfoSec Engineer with vast experience in Software Defined radio and jamming signals. He's from Perth and has a knack for all things shiny and blinky.
 
 ### Presentation
 433Mhz And the World An Introduction to Jamming
@@ -49,6 +49,40 @@ Adam Foster (evildaemond) is a Cyber Security undergrad at Edith Cowan Universit
 ### Presentation
 Bypass Techniques, because I am lazy
 
+
+***
+## Peter Yorke aka Sneaky
+![Peter Yorke](assets/images/PYorke.jpg)
+
+Sneaky (@pete12601) is an Information Security Manager @ Kinetic IT. Prior to this he was a Police Sergeant at Technology Crime Services, WA Police's specialist squad charged with investigating technology enabled crime. He is also a co-organiser of BSides Perth.
+
+
+### Presentation
+The snake that took down a child exploitation ring
+
+
+***
+## Alex Heidenreich
+![Alex Heidenreich](assets/images/AHeidenreich.jpg)
+
+Alex has more than 20 years’ experience within Defence ICT, primarily serving as a Special Forces officer within the Special Air Service Regiment.​ ​Alex led teams of Special Forces ICT specialists to develop, secure and deploy a complex and diverse array of high-readiness global telecommunications systems, capable of high-reliability communication within extreme Information Security threat environments.​
+Alex developed and employed offensive and defensive cyber security capabilities in support of complex, high risk and strategically-sensitive Special Operation activities within both global and domestic contexts. Alex is an executive director and co-founder of Diamond Cyber Security.
+
+
+### Presentation
+Full Mission Profiles – Intelligence-lead, scenario bound penetration testing
+
+
+
+***
+## Duncan Blandford aka Axelodtl
+![Duncan Blandford](assets/images/DBlandford.jpg)
+
+Axelodtl is a mature age cyber security student at ECU with strong experience in strategic development and training.  He has held regional and state directorships in sport, juvenile justice, and business, and is an impassioned entrepreneur.  Axelodtl is currently immersed in working through OverTheWire's CTF suite.
+
+
+### Presentation
+[Becoming Securicon Valley: A Proposal for a State-wide Development Framework]
 
 ---
 
