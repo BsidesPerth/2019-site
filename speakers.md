@@ -16,7 +16,7 @@ We are still looking for speakers so [click here to join this list of awesome pe
 Fergal & Gordon are recognised thought leaders and pivotal members of the information security community. Since their debut talk at [WAHCKon \[0\]](http://wahckon.org.au/) they have engaged with the community to inform, guide, and foster development of capability within the spheres cyber security. They claim joint credit for all advancement within the field since its inception.
 
 ### Presentation
-[Synergising The Internet of Everything And Fog Computing To Actualise The Cyber Perl Harbor: A Cross-silo Byod Approach to Dynamically Mitigating Next-Generation Watering Holes](../talks/#syn-int)
+[Synergising The Internet of Everything And Fog Computing To Actualise The Cyber Perl Harbor: A Cross-silo Byod Approach to Dynamically Mitigating Next-Generation Watering Holes](../talks/#Synergising-The-Internet-of-Everything-And-Fog-Computing-To-Actualise-The-Cyber-Perl-Harbor\:-A-Cross-silo---Byod-Approach-to-Dynamically-Mitigating-Next-Generation-Watering-Holes)
 
 *** 
 ## Matt Jones
