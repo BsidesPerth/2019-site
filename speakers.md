@@ -26,7 +26,7 @@ A partner at [@elttam](https://www.elttam.com.au/), Matt has over a decade of in
 He enjoys problem solving, data-based analysis, and trying to come up with ways to incorporate whisky into cooking.
 
 ### Presentation
-A historical analysis of the security maturity of OpenSSH
+[A historical analysis of the security maturity of OpenSSH](https:bsidesperth.com.au/talks#a-historical-analysis-of-the-security-maturity-of-openssh)
 
 ***
 ## Mitch Kelly aka Evilmonkey
@@ -35,7 +35,7 @@ A historical analysis of the security maturity of OpenSSH
 Mitch is an InfoSec Engineer with vast experience in Software Defined radio and jamming signals. He's from Perth and has a knack for all things shiny and blinky.
 
 ### Presentation
-433Mhz And the World An Introduction to Jamming
+[433Mhz And the World An Introduction to Jamming](https://gbsidesperth.com.au/talks#433mhz-and-the-world-an-introduction-to-jamming)
 
 
 
@@ -47,7 +47,7 @@ Adam Foster (evildaemond) is a Cyber Security undergrad at Edith Cowan Universit
 
 
 ### Presentation
-Bypass Techniques, because I am lazy
+[Bypass Techniques, because I am lazy](https://bsidesperth.com.au/talks#433mhz-and-the-world-an-introduction-to-jamming)
 
 
 ***
