@@ -63,7 +63,7 @@ Sneaky (@pete12601) is an Information Security Manager @ Kinetic IT. Prior to th
 
 ***
 ## Alex Heidenreich
-![Alex Heidenreich](assets/images/AHeidenreich.jpg)
+![Alex Heidenreich](assets/images/Stock.jpg)
 
 Alex has more than 20 years’ experience within Defence ICT, primarily serving as a Special Forces officer within the Special Air Service Regiment.​ ​Alex led teams of Special Forces ICT specialists to develop, secure and deploy a complex and diverse array of high-readiness global telecommunications systems, capable of high-reliability communication within extreme Information Security threat environments.​
 Alex developed and employed offensive and defensive cyber security capabilities in support of complex, high risk and strategically-sensitive Special Operation activities within both global and domestic contexts. Alex is an executive director and co-founder of Diamond Cyber Security.
@@ -76,7 +76,7 @@ Alex developed and employed offensive and defensive cyber security capabilities 
 
 ***
 ## Duncan Blandford aka Axelodtl
-![Duncan Blandford](assets/images/DBlandford.jpg)
+![Duncan Blandford](assets/images/Stock.jpg)
 
 Axelodtl is a mature age cyber security student at ECU with strong experience in strategic development and training.  He has held regional and state directorships in sport, juvenile justice, and business, and is an impassioned entrepreneur.  Axelodtl is currently immersed in working through OverTheWire's CTF suite.
 
