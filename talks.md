@@ -9,16 +9,7 @@ Get your head around the talk topics!
 
 We are still looking for speakers so [click here to join this list of awesome people.](https://goo.gl/forms/mVUQJjpIFIGw5O7h1)
 
-***
-## Synergising The Internet of Everything And Fog Computing To Actualise The Cyber Perl Harbor: A Cross-silo Byod Approach to Dynamically Mitigating Next-Generation Watering Holes
-### [By Fergal Conner & Gordon Erasmos](https://bsidesperth.com.au/speakers#fergal-conner--gordon-erasmos)
-The synergistically entanglement of cloud, the internet of everything and big data (CIOEBD) has proven to be a silver bullet solution to the problem of escalating infrastructure needs and right-sizing. Although the lining of this cloud isn't always silver and additional revolutionary approaches are required to actualise the cyber pearl harbour. Specifically cross-silo approaches are necessitated between these disruptive technologies to reap real world benefits in the area of next-generation watering hole mitigation.
 
-In this presentation Mr. Conner and Mr. Erasmos will discuss a staged implementation of these technologies in a no nonsense manner, with real world examples, focusing on:
-- Solution based enterprise security deployments
-- Multi vector threat detection logic to leverage intelligence capital
-- Countering the mission oriented adversary in the digital area of operation
-- Sustainable information waste management technologies
 
 
 
@@ -38,7 +29,16 @@ A portion of the talk will look at the core concepts to generalise the key offen
 ### [By Mitch Kelly aka Evilmonkey](https://bsidesperth.com.au/speakers#mitch-kelly-aka-evilmonkey)
 Evilmonkey is going to deliver an introduction to SDR covering transmitting and receiving signals which will take us into a demonstration on how to jam off-the-shelf home alarm systems.
 
+***
+## Synergising The Internet of Everything And Fog Computing To Actualise The Cyber Perl Harbor: A Cross-silo Byod Approach to Dynamically Mitigating Next-Generation Watering Holes
+### [By Fergal Conner & Gordon Erasmos](https://bsidesperth.com.au/speakers#fergal-conner--gordon-erasmos)
+The synergistically entanglement of cloud, the internet of everything and big data (CIOEBD) has proven to be a silver bullet solution to the problem of escalating infrastructure needs and right-sizing. Although the lining of this cloud isn't always silver and additional revolutionary approaches are required to actualise the cyber pearl harbour. Specifically cross-silo approaches are necessitated between these disruptive technologies to reap real world benefits in the area of next-generation watering hole mitigation.
 
+In this presentation Mr. Conner and Mr. Erasmos will discuss a staged implementation of these technologies in a no nonsense manner, with real world examples, focusing on:
+- Solution based enterprise security deployments
+- Multi vector threat detection logic to leverage intelligence capital
+- Countering the mission oriented adversary in the digital area of operation
+- Sustainable information waste management technologies
 
 ***
 ## Bypass Techniques, because I am lazy
