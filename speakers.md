@@ -9,14 +9,6 @@ Get to know our speakers in no particular order!
 
 We are still looking for speakers so [click here to join this list of awesome people.](https://goo.gl/forms/mVUQJjpIFIGw5O7h1)
 
-***
-## Fergal Conner & Gordon Erasmos
-![Thought Leaders](assets/images/FC-GE.jpg)
-
-Fergal & Gordon are recognised thought leaders and pivotal members of the information security community. Since their debut talk at [WAHCKon \[0\]](http://wahckon.org.au/) they have engaged with the community to inform, guide, and foster development of capability within the spheres cyber security. They claim joint credit for all advancement within the field since its inception.
-
-### Presentation
-[Synergising The Internet of Everything And Fog Computing To Actualise The Cyber Perl Harbor: A Cross-silo Byod Approach to Dynamically Mitigating Next-Generation Watering Holes](https://bsidesperth.com.au/talks#synergising-the-internet-of-everything-and-fog-computing-to-actualise-the-cyber-perl-harbor-a-cross-silo-byod-approach-to-dynamically-mitigating-next-generation-watering-holes)
 
 *** 
 ## Matt Jones
@@ -37,7 +29,14 @@ Mitch is an InfoSec Engineer with vast experience in Software Defined radio and 
 ### Presentation
 [433Mhz And the World An Introduction to Jamming](https://bsidesperth.com.au/talks#433mhz-and-the-world-an-introduction-to-jamming)
 
+***
+## Fergal Conner & Gordon Erasmos
+![Thought Leaders](assets/images/FC-GE.jpg)
 
+Fergal & Gordon are recognised thought leaders and pivotal members of the information security community. Since their debut talk at [WAHCKon \[0\]](http://wahckon.org.au/) they have engaged with the community to inform, guide, and foster development of capability within the spheres cyber security. They claim joint credit for all advancement within the field since its inception.
+
+### Presentation
+[Synergising The Internet of Everything And Fog Computing To Actualise The Cyber Perl Harbor: A Cross-silo Byod Approach to Dynamically Mitigating Next-Generation Watering Holes](https://bsidesperth.com.au/talks#synergising-the-internet-of-everything-and-fog-computing-to-actualise-the-cyber-perl-harbor-a-cross-silo-byod-approach-to-dynamically-mitigating-next-generation-watering-holes)
 
 ***
 ## Adam Foster aka Evildaemond
