@@ -64,7 +64,7 @@ The news is full of stories of the burgeoning skills shortage in cyber security,
 
 ***
 ## The cyber security "skills shortage" and what does it mean for you
-### [By Ricki Burke](../speakers.md#ricki-burke)
+### [By Ricki Burke](../speakers#ricki-burke)
 There are lots of headlines about a cyber security skills shortage. Initially, that sounds great but what does it mean? This presentation will focus on making yourself relevant now and over the next few years plus advice on landing a job. 
 
 
