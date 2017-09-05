@@ -83,6 +83,14 @@ Axelodtl is a mature age cyber security student at ECU with strong experience in
 ### Presentation
 [Becoming Securicon Valley: A Proposal for a State-wide Development Framework](https://bsidesperth.com.au/talks#becoming-securicon-valley-a-proposal-for-a-state-wide-development-framework)
 
+***
+## Ricki Burke
+![Ricki Burke](assets/images/RBurke.jpg)
+
+Ricki Burke is the founder of CyberSec People. With 10 years recruitment industry experience, he was fed up with the way standard recruitment was disconnected to both the people and skills required for proper placement within an organisation. As such, Ricki set up his own company. He supports organisations across ANZ and has strong ties to his local Melbourne InfoSec community, and often supports meetups, events and students on their journey to working within the industry.
+
+### Presentation
+[The cyber security "skills shortage" and what does it mean for you]()
 ---
 
 ### Contact Us
