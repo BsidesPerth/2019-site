@@ -61,6 +61,14 @@ By looking at the cyber problem through the analogue of a modern insurgency, inc
 ### [By Duncan Blandford (aka Axelodtl)](../speakers#duncan-blandford-aka-axelodtl)
 The news is full of stories of the burgeoning skills shortage in cyber security, but collectively we have the power to change that; and to become a major part of the next wave of innovation and global ICT security leadership.  Drawing on models from elite sports and industry, this talk outlines a strategy for a state-wide program to train, equip, and network the professionals and technologists of the future; and how each of us can be both a participant in, and a beneficiary of, an abundance of local and exportable talent.
 
+
+***
+## The cyber security "skills shortage" and what does it mean for you
+### [By Ricki Burke](../speakers.md#ricki-burke)
+There are lots of headlines about a cyber security skills shortage. Initially, that sounds great but what does it mean? This presentation will focus on making yourself relevant now and over the next few years plus advice on landing a job. 
+
+
+
 ---
 
 ### Contact Us
