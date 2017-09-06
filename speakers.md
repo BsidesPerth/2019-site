@@ -24,7 +24,7 @@ He enjoys problem solving, data-based analysis, and trying to come up with ways 
 ## Mitch Kelly aka Evilmonkey
 ![Mitch Kelly](assets/images/MKelly.jpg)
 
-Mitch is an InfoSec Engineer with vast experience in Software Defined radio and jamming signals. He's from Perth and has a knack for all things shiny and blinky.
+Mitch is an InfoSec and Radio Communications engineer with Vast experience in IT Security, Radio Communications, RF, Software Defined radio and Jamming. He is from Perth Western Australia and has a nack for all things blinky, shiny and things that emit RF.
 
 ### Presentation
 [433Mhz And the World An Introduction to Jamming](https://bsidesperth.com.au/talks#433mhz-and-the-world-an-introduction-to-jamming)
