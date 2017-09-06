@@ -27,7 +27,7 @@ A portion of the talk will look at the core concepts to generalise the key offen
 ***
 ## 433Mhz And the World An Introduction to Jamming
 ### [By Mitch Kelly aka Evilmonkey](https://bsidesperth.com.au/speakers#mitch-kelly-aka-evilmonkey)
-Evilmonkey is going to deliver an introduction to SDR covering transmitting and receiving signals which will take us into a demonstration on how to jam off-the-shelf home alarm systems.
+Evilmonkey is going to give a In depth talk on Radio Frequency, Modulation Techniques using Off-the-shelf Software Defined Radio equipment, With a Practical demonstration on the Security Features (Or Lack of) of many Wireless Home alarm systems. By the end of the talk you should have a much clearer understanding on Radio Frequency Engineering, Jamming Signals and SDR.
 
 ***
 ## Synergising The Internet of Everything And Fog Computing To Actualise The Cyber Perl Harbor: A Cross-silo Byod Approach to Dynamically Mitigating Next-Generation Watering Holes
