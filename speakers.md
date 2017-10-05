@@ -109,7 +109,7 @@ Chester is a Principal Research Scientist in the Office of the CTO at Sophos in 
 Aaron hires people way smarter than he is and watches them do great things. He also spends his days promoting business excellence, building knowledge scaffolds and jackknifing off burning platforms into untapped data lakes.
 
 ### Presentation
-[117 projects later...](https://bsidesperth.com.au/talks#117-projects-later...)
+[117 projects later...](https://bsidesperth.com.au/talks#117-projects-later)
 
 ***
 ## Osprey
@@ -127,7 +127,7 @@ Ospray is a recent OSCP and long time infosec enthusiast. In his spare time Ospr
 Sajeeb is a final year Software Engineering student at Monash. He's the founder of the Monash Cyber Security Club and a Penetration Tester at Hivint. He loves testing security of open source projects and teaching what he knows to others!
 
 ### Presentation
-[Beauty and the Beast: Burp and its Extender](https://bsidesperth.com.au/talks#beauty-and-the-beast:-burp-and-its-extender)
+[Beauty and the Beast: Burp and its Extender](https://bsidesperth.com.au/talks#beauty-and-the-beast-burp-and-its-extender)
 
 
 ***
@@ -138,7 +138,7 @@ Gareth is a long time sys admin, perenial trouble maker and security nerd, he ha
 
 
 ### Presentation
-[Do you even Cyber bro? Tales of InfoSec, Devops, and sobering lessons from cognitive science](https://bsidesperth.com.au/talks#do-you-even-cyber-bro)
+[Do you even Cyber bro? Tales of InfoSec, Devops, and sobering lessons from cognitive science](https://bsidesperth.com.au/talks#do-you-even-cyber-bro-tales-of-infosec-devops-and-sobering-lessons-from-cognitive-science)
 
 
 ***
@@ -161,7 +161,7 @@ Kai is an IT professional with 20 years of experience in national scale networks
 
 
 ### Presentation
-[Protecting your at-rest data from a surprisingly motivated adversary, or, why you're not paranoid enough about your disk encryption](https://bsidesperth.com.au/talks#protecting-your-at---rest-data-from-a-surprisingly-motivated-adversary-or-why-youre-not-paranoid-enough-about-your-disk-encryption)
+[Protecting your at-rest data from a surprisingly motivated adversary, or, why you're not paranoid enough about your disk encryption](https://bsidesperth.com.au/talks#protecting-your-at-rest-data-from-a-surprisingly-motivated-adversary-or-why-youre-not-paranoid-enough-about-your-disk-encryption)
 
 ***
 ## Sam
