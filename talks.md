@@ -80,7 +80,7 @@ We picked apart the 117 technical assurance projects (code reviews, VAs, pen tes
 
 ***
 ## In search of remote root
-### [By Osprey](https://bsidesperth.com.au/speakers#Osprey)
+### [By Osprey](https://bsidesperth.com.au/speakers#osprey)
 A remote root in the context of Android is an exploit or exploit chain which can ultimately gain full control of an Android phone remotely. This talk look's into the Android vulnerabilities which have come out over the past few years and looks into whether it is possible to chain them together to develop remote root kit.
 
 ***
