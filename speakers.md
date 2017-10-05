@@ -155,7 +155,7 @@ Cyber Security Architect, dreamer of a better future, rider of the wall, a flame
 
 ***
 ## Kai Frost
-![Kai Frost](assets/images/KFrost.jpg)
+![Kai Frost](assets/images/kfrost.jpg)
 
 Kai is an IT professional with 20 years of experience in national scale networks. Apart from his usual job of shifting bits around the country at ridiculous speeds, Kai has an unhealthy interest in encryption and data security. He has spoken previously at WAhckon on VoIP security and hacking as it effects modern voice providers.
 
