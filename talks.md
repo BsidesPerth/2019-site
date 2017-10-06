@@ -102,7 +102,7 @@ How do we response to our ever changing and evolving threat environment, and the
 ***
 ## Protecting your at-rest data from a surprisingly motivated adversary, or, why you're not paranoid enough about your disk encryption
 ### [By Kai Frost](../speakers#kai-frost)
-The news is full of stories of the burgeoning skills shortage in cyber security, but collectively we have the power to change that; and to become a major part of the next wave of innovation and global ICT security leadership.  Drawing on models from elite sports and industry, this talk outlines a strategy for a state-wide program to train, equip, and network the professionals and technologists of the future; and how each of us can be both a participant in, and a beneficiary of, an abundance of local and exportable talent.
+Kai examines the current issues with at-rest data encryption; in particular how it relates to various world regulatory environments and the "rubber hose" issue. Over the last few months he has developed a suite of open source tools to provide plausibly self-destroying data in response to a variety of tampering events. Kai will go through the concepts of Linux based disk/volume encryption, the issues involved as a result of modern storage media and server/pc infrastructure and discuss strategies to strengthen your data paranoia. 
 
 
 ***
