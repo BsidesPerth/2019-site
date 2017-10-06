@@ -108,7 +108,7 @@ Kai examines the current issues with at-rest data encryption; in particular how 
 ***
 ## Google Chrome - Your newest best friend in the field
 ### [By Sam](../speakers#sam)
-The control that extensions have over your browser and OS is downright ludicrous. After reporting a minor vulnerability in Google Chromeâ€™s handling of extensions, Sam dived headfirst into the world of extension permissions. He discovered unbelievable capability in the APIâ€™s available to Chrome extensions that are completely silent to the end-user, and yet itâ€™s an attack surface rarely used by pentesters. The data exfil, pivoting, proxying, and persistence capabilities of extensions has lead Sam to release a tool that helps pentesters build Chrome extensions with customised payloads and CnC capability. These extensions go undetected by the Chrome Web Store malware checks, and are ready for immediate deployment in the field.
+The control that extensions have over your browser and OS is downright ludicrous. After reporting a minor vulnerability in Google Chrome's handling of extensions, Sam dived headfirst into the world of extension permissions. He discovered unbelievable capability in the APIâ€™s available to Chrome extensions that are completely silent to the end-user, and yet itâ€™s an attack surface rarely used by pentesters. The data exfil, pivoting, proxying, and persistence capabilities of extensions has lead Sam to release a tool that helps pentesters build Chrome extensions with customised payloads and CnC capability. These extensions go undetected by the Chrome Web Store malware checks, and are ready for immediate deployment in the field.
 He's excited to show off the tool to the public for the first time. 
 
 ---
