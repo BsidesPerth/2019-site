@@ -75,9 +75,9 @@ Alex developed and employed offensive and defensive cyber security capabilities 
 
 ***
 ## Duncan Blandford aka Axelodtl
-![Duncan Blandford](assets/images/Stock.jpg)
+![Duncan Blandford](assets/images/Ax.jpg)
 
-Axelodtl is a mature age cyber security student at ECU with strong experience in strategic development and training.  He has held regional and state directorships in sport, juvenile justice, and business, and is an impassioned entrepreneur.  Axelodtl is currently immersed in working through OverTheWire's CTF suite.
+Axelodtl is a mature age cyber security student at ECU with a background in teaching sports people to sports better.  His dream is to live in a world where people love their work, and where excellence is the new normal.
 
 
 ### Presentation
