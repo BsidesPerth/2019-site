@@ -112,8 +112,8 @@ Aaron hires people way smarter than he is and watches them do great things. He a
 [117 projects later...](https://bsidesperth.com.au/talks#117-projects-later)
 
 ***
-## Osprey
-![Osprey](assets/images/Osprey.jpg)
+## Ospray
+![Ospray](assets/images/Ospray.jpg)
 
 Ospray is a recent OSCP and long time infosec enthusiast. In his spare time Ospray loves researching new and emerging vulnerabilities and threats.
 
