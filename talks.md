@@ -114,7 +114,7 @@ He's excited to show off the tool to the public for the first time.
 
 ***
 ## 2FAssassin: Bypass 2FA, Stealing Private Keys, Abusing Client Certificates, Make Illegal Profits, Have Fun, and Much More
-### [By Maxwell Koh](..speakers#maxwell-koh)
+### [By Maxwell Koh](../speakers#maxwell-koh)
 The "knowledge factor" (using passwords for authentication) will never be enough for security. We need the second layer of defense -- a "possession factor" or sometimes called the "Two-Factor Authentication", hence the term, "2FA". Nowadays many organization plans to adopt password-free login to authenticate their systems, thereby completely replacing the password-based authentication with key-based authentication, which they believed is more secure. However, the truth is far from reality.
 
 ---
