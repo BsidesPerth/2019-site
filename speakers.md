@@ -173,7 +173,15 @@ Sam is a penetration tester at Hivint Perth who has a particular interest in web
 ### Presentation
 [Google Chrome - Your newest best friend in the field](../talks#google-chrome---your-newest-best-friend-in-the-field)
 
+***
+## Maxwell Koh
+![Maxwell](assets/images/Mkoh.jpg)
 
+Maxwell is a penetration tester and independent security researcher based in Singapore. He had spent a decade hacking for living. His research area includes Two-Factor authentication, cryptography, forensics, and others.
+
+
+### Presentation
+[2FAssassin: Bypass 2FA, Stealing Private Keys, Abusing Client Certificates, Make Illegal Profits, Have Fun, and Much More.](../talks#2Fassassin-bypass-2fa-stealing-private-keys-abusing-client-certificates-make-illegal-profits-have-fun-and-much-more)
 ---
 
 ### Contact Us
