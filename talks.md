@@ -111,6 +111,12 @@ Kai examines the current issues with at-rest data encryption; in particular how 
 The control that extensions have over your browser and OS is downright ludicrous. After reporting a minor vulnerability in Google Chrome's handling of extensions, Sam dived headfirst into the world of extension permissions. He discovered unbelievable capability in the APIâ€™s available to Chrome extensions that are completely silent to the end-user, and yet itâ€™s an attack surface rarely used by pentesters. The data exfil, pivoting, proxying, and persistence capabilities of extensions has lead Sam to release a tool that helps pentesters build Chrome extensions with customised payloads and CnC capability. These extensions go undetected by the Chrome Web Store malware checks, and are ready for immediate deployment in the field.
 He's excited to show off the tool to the public for the first time. 
 
+
+***
+## 2FAssassin: Bypass 2FA, Stealing Private Keys, Abusing Client Certificates, Make Illegal Profits, Have Fun, and Much More
+### [By Maxwell Koh](..speakers#maxwell-koh)
+The "knowledge factor" (using passwords for authentication) will never be enough for security. We need the second layer of defense -- a "possession factor" or sometimes called the "Two-Factor Authentication", hence the term, "2FA". Nowadays many organization plans to adopt password-free login to authenticate their systems, thereby completely replacing the password-based authentication with key-based authentication, which they believed is more secure. However, the truth is far from reality.
+
 ---
 
 ### Contact Us
