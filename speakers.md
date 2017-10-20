@@ -181,7 +181,7 @@ Maxwell is a penetration tester and independent security researcher based in Sin
 
 
 ### Presentation
-[2FAssassin: Bypass 2FA, Stealing Private Keys, Abusing Client Certificates, Make Illegal Profits, Have Fun, and Much More.](../talks#2Fassassin-bypass-2fa-stealing-private-keys-abusing-client-certificates-make-illegal-profits-have-fun-and-much-more)
+[2FAssassin: Bypass 2FA, Stealing Private Keys, Abusing Client Certificates, Make Illegal Profits, Have Fun, and Much More.](../talks#2fassassin-bypass-2fa-stealing-private-keys-abusing-client-certificates-make-illegal-profits-have-fun-and-much-more)
 
 ---
 
