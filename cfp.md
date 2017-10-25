@@ -6,7 +6,7 @@ banner_image: cfp.png
 banner_image_alt: CFP
 ---
 
-BSides Perth needs speakers. We’re hosting at the UWA Business School in Perth on the 2nd and 3rd of December.
+BSides Perth needs speakers. We’re hosting at the University of Western Australia in Perth on the 2nd and 3rd of December.
 
 If you’ve never spoken at a con before, this is the con for you!
 If you’re a seasoned con speaker, this is the con for you!
