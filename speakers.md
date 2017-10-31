@@ -7,8 +7,6 @@ banner_image_alt:
 ---
 Get to know our speakers in no particular order!
 
-We are still looking for speakers so [click here to join this list of awesome people.](https://goo.gl/forms/mVUQJjpIFIGw5O7h1)
-
 
 *** 
 ## Matt Jones
