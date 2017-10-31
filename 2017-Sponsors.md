@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 2017 Sponsors
-permalink: /sponsors/
+permalink: /2017-Sponsors/
 banner_image: 
 banner_image_alt:
 ---
