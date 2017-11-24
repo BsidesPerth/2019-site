@@ -61,7 +61,7 @@ Forcepoint is transforming cybersecurity with systems that understand people’s
 
 | <img src="http://bsidesperth.com.au/assets/images/sponsors/CNC.jpg" width="400" />  | <img src="https://bsidesperth.com.au/assets/images/sponsors/kineticIT_logo%20(extra%20large%2C%20high%20res).jpg" width="400" /> 
 | ------------- | ------------- |
-| [Cape Naturaliste Computers has been supplying Network & Security Services to the South West for over 10 years. Enterprise Solutions for SMB clients.](https://cncomputers.com.au) | [Since 1995, Kinetic IT has become a leading enterprise solution provider, servicing large and complex environments across industry sectors including government, corporate, resources and utilities.](https://www.kineticit.com.au) |
+| [Cape Naturaliste Computers has been supplying Network & Security Services to the South West for over 10 years. Enterprise Solutions for SMB clients.](https://cncomputers.com.au) | [Kinetic IT is Australia's largest privately-owned Managed Security Services Provider, with offices in Perth, Darwin, Melbourne and Sydney. Services include a 24x7 SOC; cyber incident response; infosec consulting; forensics; testing; strategy and planning; security assurance; GRC and specialised security training.](https://security.kineticit.com.au) |
 
 | <img src="https://bsidesperth.com.au/assets/images/sponsors/pentesterlab.png" width="300" /> | <img src="https://bsidesperth.com.au/assets/images/sponsors/Pick-Pals-Logos-WEBSITE.jpg" width="300" /> |
 | ------------- | ------------- |
