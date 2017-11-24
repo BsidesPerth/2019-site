@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2017 Sponsors
+title: 2017 Schedule
 permalink: /2017-Schedule/
 banner_image: 
 banner_image_alt:
