@@ -6,7 +6,7 @@ banner_image: cfp.png
 banner_image_alt: CFP
 ---
 
-BSides Perth 2018 needs speakers. BSides Perth 2018 is running on the 8th and 9th of September 2018 at <$VENUE TBA> in Perth, Western Australia. If you are unsure about whether you can make the event or not, please reach out to us to see if we can provide assistance.
+BSides Perth 2018 needs speakers. BSides Perth 2018 is running on the 8th and 9th of September 2018 at <$VENUE TBA> in Perth, Western Australia.
 
 If you’ve never spoken at a con before, this is the con for you!
 If you’re a seasoned con speaker, this is the con for you!
