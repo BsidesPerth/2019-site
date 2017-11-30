@@ -6,7 +6,7 @@ banner_image: cfp.png
 banner_image_alt: CFP
 ---
 
-BSides Perth needs speakers. We’re hosting at the University of Western Australia in Perth on the 2nd and 3rd of December.
+BSides Perth 2018 needs speakers.
 
 If you’ve never spoken at a con before, this is the con for you!
 If you’re a seasoned con speaker, this is the con for you!
@@ -41,12 +41,12 @@ We are **NOT KEEN** to hear:
 Advertisements for Products |
  
  
-Talks must be a minimum of 10 mins and a maximum of 40 minutes.
+Talks must be a minimum of 10 mins and a maximum of 45 minutes.
  
 In the interest of working together, BSides focuses on valuable feedback from the audience to engage with our speakers and create discussion around topics. We are hopeful that our speakers remain open to continuing the discussion after their speaking slot.
 If you’d like to be an integral part of BSides Perth 2017 by submitting a talk, [please click this link](https://goo.gl/forms/suN2U8KxWW7in5Q03) and fill in the details of your submission.
 
-Submissions close on 1st October 2017.
+Submissions close on 1st August 2018.
  
  
 Don't forget to [follow us on Twitter](https://twitter.com/bsidesper)
