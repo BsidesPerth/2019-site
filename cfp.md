@@ -2,7 +2,7 @@
 layout: page
 title: Call for Presentations
 permalink: /cfp/
-banner_image: 2018.png
+banner_image: 2018-cfp.png
 banner_image_alt: CFP
 ---
 
