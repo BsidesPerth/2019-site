@@ -5,7 +5,7 @@ email: bsidesper@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   BSides Perth - December 2nd and 3rd 2017
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "https://bsidesperth.com.au" # the base hostname & protocol for your site
+url: "https://bsidesper.com.au" # the base hostname & protocol for your site
 logourl: /assets/images/transparent_Black.png # Site logo
 author: "Bsides Perth"
 author_thumbnail: "/assets/images/twitter_profile.png" # Author avatar
